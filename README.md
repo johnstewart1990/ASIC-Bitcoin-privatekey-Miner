@@ -75,7 +75,9 @@ S9 is capable of 14 TH/s (average). The main obstacle for bruteforce of HD walle
 The chip does two hashes by default. In addition, it can load new data during hashing. 
 Using cross-loading, this eliminates the load time losses. 
 Thus, only 500.000 hashes need to be done without load time losses. 
-How many wallets can hash this device? 2800 M.wallets/s. S17 Pro can hash 11200 M.w/s.#(S17 Pro 100x faster than an RTX 3090)
+How many wallets can hash this device? 2800 M.wallets/s. S17 Pro can hash 11200 M.w/s.
+
+#(S17 Pro 100x faster than an RTX 3090)
 
 
 In reality, the speed will be slightly lower because the hashboard is not designed to high speed communication 

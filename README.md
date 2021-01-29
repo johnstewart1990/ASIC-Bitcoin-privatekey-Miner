@@ -95,9 +95,6 @@ If you have savings on old wallets (created until mid 2012 or started from "1"),
 But abandoned wallets must be opened! As of January, out of the 18.14 million BTC 
 that existed at that time, almost 60% had never moved.
 
-The next one old address was opened
-1EaXdZypzsWcTqEJQk2esJDck3oSLpra2T
-13pd4UFwUk3HFpk4HkCFV8xvzBDC4aQTC1
 
 We only sell this file to 20 people.
 So far, we know 7 people who have. 

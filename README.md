@@ -100,7 +100,7 @@ The next one old address was opened
 13pd4UFwUk3HFpk4HkCFV8xvzBDC4aQTC1
 
 We only sell this file to 20 people.
-So far, we know 4 people who have. 
+So far, we know 7 people who have. 
 
 by
 achow

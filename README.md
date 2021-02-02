@@ -97,7 +97,7 @@ that existed at that time, almost 60% had never moved.
 
 
 We only sell this file to 20 people.
-So far, we know 9 people who have. 
+So far, we know 11 people who have. 
 
 by
 achow

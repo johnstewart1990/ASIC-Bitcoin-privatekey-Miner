@@ -1,8 +1,11 @@
 # ASIC-Bitcoin-privatekey-Miner
-ASIC-Bitcoin-privatekey-Miner solo mining
++ NEW! Firmware S9, T9, S17, to S19Pro
++ ASIC-Bitcoin-privatekey-Miner (Solo mining)
 https://satoshidisk.com/pay/CBZ5ZX
 
-ASIC-Bitcoin-privatekey-Miner Pool mining
+
++ NEW! Firmware S9, T9, S17, to S19Pro
++ ASIC-Bitcoin-privatekey-Miner (Pool mining)
 https://satoshidisk.com/pay/CBZ5al
 
 

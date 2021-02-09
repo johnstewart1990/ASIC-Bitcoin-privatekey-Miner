@@ -1,6 +1,6 @@
 # ASIC-Bitcoin-privatekey-Miner
 + NEW! Firmware S9, T9, S17, to S19Pro
-+ ASIC-Bitcoin-privatekey-Miner (Solo mining)
++ ASIC-Bitcoin-privatekey-Miner (Solo mining) We only sell this file to 20 people.
 https://satoshidisk.com/pay/CBZ5ZX
 
 
@@ -98,9 +98,9 @@ If you have savings on old wallets (created until mid 2012 or started from "1"),
 But abandoned wallets must be opened! As of January, out of the 18.14 million BTC 
 that existed at that time, almost 60% had never moved.
 
-
++ ASIC-Bitcoin-privatekey-Miner (Solo mining)
 We only sell this file to 20 people.
-So far, we know 13 people who have. 
+So far, we know 16 people who have. 
 
 by
 achow

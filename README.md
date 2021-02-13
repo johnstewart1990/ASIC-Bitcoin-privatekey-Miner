@@ -1,12 +1,12 @@
 # ASIC-Bitcoin-privatekey-Miner
 + NEW! Firmware S9, T9, S17, to S19Pro
-+ We only sell this file to 20 people. So far, we know 18 people who have.
++ We only sell this file to 20 people. So far, we know 20 people who have.
 + ASIC-Bitcoin-privatekey-Miner (Solo mining) 
-https://satoshidisk.com/pay/CBZ5ZX
+The sale is complete 
 
 
-+ NEW! Firmware S9, T9, S17, to S19Pro
-+ ASIC-Bitcoin-privatekey-Miner (Pool mining)
++ NEW! Firmware S9, T9, S17, to S19Pro 
++ ASIC-Bitcoin-privatekey-Miner (Privat Pool mining)
 https://satoshidisk.com/pay/CBZ5al
 
 
